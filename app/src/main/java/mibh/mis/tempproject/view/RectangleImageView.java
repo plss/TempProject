@@ -7,17 +7,17 @@ import android.widget.ImageView;
 /**
  * Created by ponlakiss on 10/15/2015.
  */
-public class SquaredImageView extends ImageView {
+public class RectangleImageView extends ImageView {
 
-    public SquaredImageView(Context context) {
+    public RectangleImageView(Context context) {
         super(context);
     }
 
-    public SquaredImageView(Context context, AttributeSet attrs) {
+    public RectangleImageView(Context context, AttributeSet attrs) {
         super(context, attrs);
     }
 
-    public SquaredImageView(Context context, AttributeSet attrs, int defStyle) {
+    public RectangleImageView(Context context, AttributeSet attrs, int defStyle) {
         super(context, attrs, defStyle);
     }
 
